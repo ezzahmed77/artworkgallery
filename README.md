@@ -8,9 +8,9 @@ This is an Artwork Gallery app that allows users to view different artworks with
 
 <div>
 <img src = "https://user-images.githubusercontent.com/112197330/233331408-67d5963e-efa5-45b2-ae10-633f9ff46e05.png" width="200"/>
-<br>
+
 <img src = "https://user-images.githubusercontent.com/112197330/233331715-23aa7eac-0bb0-4e0e-9723-b7fc074f1b78.png" width="250"/>
-<br>
+
 <img src = "https://user-images.githubusercontent.com/112197330/233332133-995eac4a-fa56-486a-b5af-d858fc79de16.png" width="250"/>
 </div>
 
